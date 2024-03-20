@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohankumar T R</h1>
-<h3 align="center">A fullstack developer currently pursuing my Master in Computer Science from the University of Stuttgart</h3>
+<h3 align="center">A fullstack developer currently pursuing my Master's in Computer Science from the University of Stuttgart</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
