@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Sohan</h1>
-<h3 align="center">A fullstack developer currently pursuing my Master's in Computer Science from the University of Stuttgart</h3>
+<h3 align="center">A software engineer currently pursuing my Master's in Computer Science from the University of Stuttgart</h3>
 
 <!--
 **trsohankumar/trsohankumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
