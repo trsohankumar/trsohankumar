@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohankumar T R</h1>
+<h1 align="center">Hi 👋, I am Sohan</h1>
 <h3 align="center">A fullstack developer currently pursuing my Master's in Computer Science from the University of Stuttgart</h3>
 
 <!--
